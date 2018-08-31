@@ -1,0 +1,46 @@
+.negro{
+    background: black;
+    width: 6vw;
+    height: 6vw;
+    color: white;
+    
+}
+
+.blanco{
+    background: white;
+    width: 6vw;
+    height: 6vw;
+    
+}
+
+table{
+    margin: auto;
+}
+
+tr p{
+    visibility: hidden;
+}
+
+.blanco:hover{
+    background: rgba(255, 0, 0, 0.5);
+}
+
+.negro:hover{
+    background: rgba(255, 0, 0, 0.5);
+}
+
+.negro:hover p{
+    visibility: visible;
+}
+
+.blanco:hover p{
+    visibility: visible;
+}
+
+h1{
+    margin: 1em auto;
+    
+}
+
+
+
