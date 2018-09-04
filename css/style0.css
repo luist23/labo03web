@@ -1,0 +1,42 @@
+body{
+    background: rgba(99, 86, 86, 0.685);
+}
+
+.content{
+    margin: 15%;
+    border: solid dodgerblue;
+    padding: 5%;
+    text-align-last: center;
+    background: white;
+
+}
+
+h1{
+    margin: 1em auto;
+    text-align: center;
+    color: blue;
+    
+
+}   
+
+img{
+    justify-content: center;
+    size: 85%;
+    width: 85%;
+    height: 85%;
+    border: solid aqua;
+}
+
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+    display: inline-block;
+    margin: 2em 1em;
+    background: darkblue;
+    border-radius: 0.5em;
+    color: white;
+    padding: 2em;
+
+    
+}

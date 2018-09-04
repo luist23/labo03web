@@ -1,0 +1,75 @@
+.Big{
+    height: 5em;
+    
+}
+
+.Smal{
+    height: 0.5em;
+}
+
+
+
+.Colors button{
+    color: white;
+    border: none;
+}
+
+
+
+button{
+    padding: 1em 2em;
+    text-align: center; 
+    text-align-last: center;
+    margin: 0% 0.5em;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 0.5em;
+    font-weight: 700;
+}
+
+
+.rubi{
+    border: none;
+}
+
+.Tamanho>button{
+    background-color:#f4f3f2;
+    border: none;
+
+    color: #758192;
+}
+
+.Esmeralda{
+    background-color: #57d68d;
+    border-color: #57d68d;
+    color: #57d68d;
+    
+}
+
+.Cielo{
+    background-color: #5cace2;
+    border-color:#5cace2;
+    color: #5cace2;
+}
+
+.Amatista{
+    background-color: #ae7ac4;
+    border-color:#ae7ac4;
+    color: #ae7ac4;
+}
+
+.Asphalto{background-color: #5c6d7e;border-color:#5c6d7e; color: #5c6d7e}
+.Topazio{background-color: #ea974e;border-color:#ea974e; color: #ea974e}
+.Rubi{background-color: #eb6f62;border-color:#eb6f62;color: #eb6f62}
+
+.Border{
+    background-color: white;
+}
+.white{
+    color: white;
+}
+
+body>div{
+    padding: 1em;
+    border: solid;
+}
